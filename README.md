@@ -1,16 +1,14 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 💜
 
-<!--
-**mirellagiovanna/mirellagiovanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é mirella 
 
-Here are some ideas to get you started:
+- gosto muito da série stranger things
+- gosto de jogar vôlei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## entre em contato comigo pelo endereço eletrônico 📧
+
+  mirellagiovanna87@gmail.com
+
+  ![](https://media1.tenor.com/m/S4MGlOuBFtsAAAAC/kkkk.gif)
+
